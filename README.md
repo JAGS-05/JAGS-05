@@ -40,27 +40,19 @@ I'm particularly interested in applied AI, backend engineering, and deploying pr
 
 ---
 
-## 🚀 Featured Projects
-
-- 🩺 Bilingual Medical LLM
-- ☁️ Kubernetes Monitoring Dashboard
-- 📄 Intelligent Document Processing RAG Pipeline
-
----
-
 ### 💼 Experience
 
-- **Advanced Application Engineering Analyst Intern** — Accenture *(May 2026 – Present)*
-- **R&D Intern** — Straive *(May 2025 – Jun 2025)*
-- **Open Source Contributor** — GirlScript Summer of Code 2026
+* **Advanced Application Engineering Analyst Intern** — Accenture *(May 2026 – Present)*
+* **R&D Intern** — Straive *(May 2025 – Jun 2025)*
+* **Open Source Contributor** — GirlScript Summer of Code 2026
 
 ---
 
 ### 🎓 Leadership & Activities
 
-- **Social Media Head** — Zer01coded, NIT Puducherry
-- **PAN India Hackathon Coordinator** — TechFest Gyanith 2025
-- **Inter-NIT Volleyball Player** — NIT Puducherry
+* **Social Media Head** — Zer01coded, NIT Puducherry
+* **PAN India Hackathon Coordinator** — TechFest Gyanith 2025
+* **Inter-NIT Volleyball Player** — NIT Puducherry
 
 ### 📊 GitHub Stats
 
