@@ -1,8 +1,10 @@
-# Hi there, I'm Jagathsri! 👋
+c# Hi there, I'm Jagathsri! 👋
 
-I am a final-year Computer Science & Engineering undergraduate at the National Institute of Technology Puducherry. I work on **Artificial Intelligence/Machine Learning pipelines, Large Language Models (LLMs), and scalable cloud-native backends**. 
+I'm a final-year Computer Science & Engineering undergraduate at the National Institute of Technology Puducherry, passionate about building **AI/ML systems, Large Language Model (LLM) applications, and scalable cloud-native backends.**
 
-Currently, I am working as an **Advanced Application Engineering Analyst Intern at Accenture**, contributing to enterprise digital platform solutions. I am also passionate about open-source development and have participated as a contributor in **GirlScript Summer of Code (GSSoC) 2026**!
+Currently, I'm an Advanced Application Engineering Analyst Intern at Accenture, where I contribute to enterprise digital platform solutions. I also enjoy contributing to open source and was a contributor to GirlScript Summer of Code (GSSoC) 2026.
+
+I'm particularly interested in applied AI, backend engineering, and deploying production-ready intelligent systems.
 
 ---
 
@@ -38,22 +40,32 @@ Currently, I am working as an **Advanced Application Engineering Analyst Intern 
 
 ---
 
-### 💼 Experience & Leadership
+## 🚀 Featured Projects
 
-* **Advanced Application Engineering Analyst Intern** @ Accenture *(May 2026 – Present)*
-* **R&D Intern** @ Straive *(May 2025 – Jun 2025)*
-* **Contributor** @ GirlScript Summer of Code 2026
-* **Social Media Head** @ Zer01coded (coding club) of NIT Puducherry.
-* **PAN India Hackathon Coordinator** @ TechFest Gyanith 2025.
-* **Sportsperson** @ NIT Puducherry Inter-NIT Volleyball Team Player.
+- 🩺 Bilingual Medical LLM
+- ☁️ Kubernetes Monitoring Dashboard
+- 📄 Intelligent Document Processing RAG Pipeline
 
 ---
 
+### 💼 Experience
+
+- **Advanced Application Engineering Analyst Intern** — Accenture *(May 2026 – Present)*
+- **R&D Intern** — Straive *(May 2025 – Jun 2025)*
+- **Open Source Contributor** — GirlScript Summer of Code 2026
+
+---
+
+### 🎓 Leadership & Activities
+
+- **Social Media Head** — Zer01coded, NIT Puducherry
+- **PAN India Hackathon Coordinator** — TechFest Gyanith 2025
+- **Inter-NIT Volleyball Player** — NIT Puducherry
+
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JAGS-05&show_icons=true&theme=calm&count_private=true" alt="Jaggu's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JAGS-05&layout=compact&theme=calm" alt="Jaggu's Top Languages" height="180px" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JAGS-05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGS-05&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGS-05&theme=github-dark&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
