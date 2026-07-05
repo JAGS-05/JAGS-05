@@ -9,7 +9,7 @@ Currently, I am working as an **Advanced Application Engineering Analyst Intern 
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagathsri) 
-[![Email](https://img.shields.io/badge/Email-7010263144-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagathsri345@gmail.com)
+[![Email](https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagathsri345@gmail.com)
 
 ### 🛠️ Tech Stack
 
