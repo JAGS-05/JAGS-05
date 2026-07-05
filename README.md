@@ -52,8 +52,8 @@ Currently, I am working as an **Advanced Application Engineering Analyst Intern 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGS-05&show_icons=true&theme=calm&count_private=true" alt="Jagathsri's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGS-05&layout=compact&theme=calm" alt="Jagathsri's Top Languages" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JAGS-05&show_icons=true&theme=calm&count_private=true" alt="Jaggu's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JAGS-05&layout=compact&theme=calm" alt="Jaggu's Top Languages" height="180px" />
 </p>
 
 ---
