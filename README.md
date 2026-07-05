@@ -1,4 +1,4 @@
-c# Hi there, I'm Jagathsri! 👋
+# Hi there, I'm Jagathsri! 👋
 
 I'm a final-year Computer Science & Engineering undergraduate at the National Institute of Technology Puducherry, passionate about building **AI/ML systems, Large Language Model (LLM) applications, and scalable cloud-native backends.**
 
