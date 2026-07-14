@@ -56,8 +56,6 @@ I'm particularly interested in applied AI, backend engineering, and deploying pr
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JAGS-05&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGS-05&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" /> </p>
-
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGS-05&theme=github-dark&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
